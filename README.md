@@ -44,3 +44,4 @@ ChatGPT explainers
 5. [Building web AR scenes by using text commands](https://twitter.com/stspanho/status/1599367959029288960)
 6. [An extension that adds "Generate PNG" and "Export PDF" functions to ChatGPT's interface](https://twitter.com/liadyosef/status/1599484187396145153)
 7. [Creating a trivia games using ChatGPT. For example, a game for guessing which city is featured in a picture](https://twitter.com/xf1280/status/1599252728399921152)
+8. [Inventing New Recipes for AI Assisted Cooking](http://bit.ly/3P4aSLo)
